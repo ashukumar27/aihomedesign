@@ -9,7 +9,7 @@ version = model.versions.get("db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c
 # https://replicate.com/stability-ai/stable-diffusion/versions/db21e45d3f7023abc2a46ee38a23973f6dce16bb082a930b0c49861f96d1e5bf#input
 inputs = {
     # Input prompt
-    'prompt': "dream “Hyper-realistic, overhang cuboid home with concrete and metal, and bog window frame, in the mountain, morning light, Future design, architecture design, foggy, environment, Cinematography, mega scans, cinematic, hyper-realistic, photo real, cinematic composition, highly detailed, vray,8k render",
+    'prompt': "Hyper-realistic, overhang cuboid home with concrete and metal, and bog window frame, in the mountain, morning light, Future design, architecture design, foggy, environment, Cinematography, mega scans, cinematic, hyper-realistic, photo real, cinematic composition, highly detailed, vray,8k render",
 
     # pixel dimensions of output image
     'image_dimensions': "768x768",
