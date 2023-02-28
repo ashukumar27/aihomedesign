@@ -73,3 +73,8 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem 'dotenv-rails'
+
+gem 'replicate-ruby'
+gem 'replicate-rails', require: 'replicate_rails'
