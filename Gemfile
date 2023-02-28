@@ -75,6 +75,7 @@ group :test do
 end
 
 gem 'dotenv-rails'
+gem 'rails_12factor'
 
 gem 'replicate-ruby'
 gem 'replicate-rails', require: 'replicate_rails'
