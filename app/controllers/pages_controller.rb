@@ -7,5 +7,7 @@ class PagesController < ApplicationController
 	@s=@output.to_s.gsub('[', '').gsub(']','').gsub("'","")
 
 
+	@testout = `python lib/assets/python/script2.py`
+
   end
 end
